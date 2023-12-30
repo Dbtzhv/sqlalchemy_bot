@@ -1,0 +1,5 @@
+new.db
+.env
+venv
+new.db-journal
+__pycache__
